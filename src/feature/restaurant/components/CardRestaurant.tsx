@@ -37,7 +37,7 @@ const CardRestaurant = ({ data }: Props) => {
                 </Typography>
             </div>
             <a href={`/detail/${data.id}`}>
-                <Button className="w-full p-2 mt-3 rounded-none uppercase text-sm">
+                <Button className="w-full p-2 mt-3 rounded-none uppercase text-sm flex justify-center">
                     learn more
                 </Button>
             </a>
