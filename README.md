@@ -55,3 +55,6 @@ Untuk masuk ke aplikasi, gunakan username dan password berikut:
 
 - Username: eve.holt@reqres.in
 - Password: **bebas**
+
+ ## Deployed on Vercel
+[![Deployed with Vercel](https://vercel.com/button)](https://restaurant-dummy-app.vercel.app)
